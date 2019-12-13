@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe0bef08-0aa6-4e7a-ae90-2da54d7e3570" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Uv9o7sE4RI1p96MwJ2JA5gG8IT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="kickOffApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="kickOffApp" />
+      <module name="i-learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.kickOffApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="i-learn" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="i-learn [file:/Users/srijanbhushan/my_repos/i-learn/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="i-learn-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3152454307000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3875186033" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1134086237" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe0bef08-0aa6-4e7a-ae90-2da54d7e3570" name="Default Changelist" comment="" />
+      <created>1576226373886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576226373886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="99" key="#Project_Structure" timestamp="1576226577818">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="390" y="99" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1576226577818" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1576229837388">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.0.1440.844@0.0.1440.844" timestamp="1576226999763" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.846@0.0.1440.846" timestamp="1576229837388" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1576226767995" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1576229837385">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.0.1440.844@0.0.1440.844" timestamp="1576226999761" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.846@0.0.1440.846" timestamp="1576229837385" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1576226767995" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1576229837384">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.0.1440.844@0.0.1440.844" timestamp="1576226999760" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.846@0.0.1440.846" timestamp="1576229837384" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1576226767994" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1576229837387">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.0.1440.844@0.0.1440.844" timestamp="1576226999762" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.846@0.0.1440.846" timestamp="1576229837387" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1576226767995" />
+    <state x="396" y="149" key="NewModule_or_Project.wizard" timestamp="1576226430589">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="396" y="149" key="NewModule_or_Project.wizard/0.23.1440.821@0.23.1440.821" timestamp="1576226430589" />
+    <state x="198" y="23" width="1024" height="823" key="SettingsEditor" timestamp="1576229701801">
+      <screen x="0" y="0" width="1440" height="846" />
+    </state>
+    <state x="198" y="23" width="1024" height="823" key="SettingsEditor/0.0.1440.846@0.0.1440.846" timestamp="1576229701801" />
+    <state x="198" y="23" width="1024" height="821" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1576226949485" />
+  </component>
+</project>
